@@ -9,7 +9,7 @@
 	"Mobile County, AL"	"01097"	5372	413210	13.001
 	"Montgomery County, AL"	"01101"	3167	226486	13.983
 	"Morgan County, AL"	"01103"	1435	119679	11.990
-	"Shelby County, AL"	"01117"	2206	217702	10.133
+	"Shelby County, AL"	"01117"	2206	217702	10.1330
 	"Tuscaloosa County, AL"	"01125"	2630	209355	12.562
 	"Unidentified Counties, AL"	"01999"	22901	1975740	11.591
 	"Anchorage Borough, AK"	"02020"	3945	288000	13.698
