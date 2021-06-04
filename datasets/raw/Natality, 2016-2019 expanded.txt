@@ -5,7 +5,7 @@
 	"Houston County, AL"	"01069"	1336	105882	12.618
 	"Jefferson County, AL"	"01073"	8481	658573	12.878
 	"Lee County, AL"	"01081"	1879	164542	11.420
-	"Madison County, AL"	"01089"	4260	372909	11.424
+	"Madison County, AL"	"01089"	4260	372909	11.4240
 	"Mobile County, AL"	"01097"	5372	413210	13.001
 	"Montgomery County, AL"	"01101"	3167	226486	13.983
 	"Morgan County, AL"	"01103"	1435	119679	11.990
